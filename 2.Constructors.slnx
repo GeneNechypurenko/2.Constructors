@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.ConstructorDestructor/01.ConstructorDestructor.vcxproj" Id="97944ac5-0156-41bc-aad8-8bcbfdc1be99" />
+  <Project Path="02.DelegationConstructor/02.DelegationConstructor.vcxproj" Id="796a7c10-cd04-4569-9557-e119715aafc5" />
+  <Project Path="03.StaticMembers/03.StaticMembers.vcxproj" Id="a737bf90-0940-4fc2-913e-3d50d314b464" />
+</Solution>
